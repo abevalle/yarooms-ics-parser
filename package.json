@@ -1,0 +1,12 @@
+{
+  "name": "yarooms-ics-parser",
+  "version": "0.0.0",
+  "description": "parsing yarooms ics to json",
+  "main": "main.js",
+  "author": "abe valle",
+  "license": "None",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
